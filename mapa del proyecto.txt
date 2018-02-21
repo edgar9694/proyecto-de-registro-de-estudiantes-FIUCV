@@ -1,0 +1,37 @@
+Home
+	control de estudios
+						estudiante
+							inscripcion
+									horario de las materias por codigo
+									formulario de inscripcion
+							perfil de la carrera
+									nro de materias que lleva
+									nro de matrias que inscribio
+									nro de materias aprobadas
+									nro de materias raspadas
+									indice de eficiencia
+									indice de materias segun su escuela
+									electivas disponible para su carrera
+							servicio comunitario
+							planillas
+									retiro
+									paralelo
+									
+							Calendario academico
+							kardex
+
+					  Profesores
+								registro de notas
+								materias que dicta
+								registro de los estudiantes de cada materia
+								notificaciones del retiro de una materia por parte de algun estudainte
+								contacto de los preparadores de cada materia que dicta
+
+						programa de las asignaturas
+
+						curso de idiomas
+
+	coordinaciones
+	escuelas
+	Postgrado
+	enlaces de interés
